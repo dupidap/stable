@@ -7,7 +7,7 @@ VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="StableCoin"
-ORG_URL="https://www.stablecoin.org"
+ORG_URL="https://stablecoin.org"
 ORG_DESCRIPTION="A stablecoin is a new class of cryptocurrencies that attempts to offer price stability and are backed by a reserve asset. Stablecoins have gained traction as they attempt to offer the best of both worlds—the instant processing and security or privacy of payments of cryptocurrencies, and the volatility-free stable valuations of fiat currencies."
 ORG_TWITTER="@STABLECOIN"
 ORG_LOGO="https://i.ibb.co/6NFQh7t/stable.png"
